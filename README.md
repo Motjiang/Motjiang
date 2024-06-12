@@ -25,7 +25,6 @@ Let's connect and embark on a journey to explore the endless possibilities that 
    to data-driven decision-making.
 
  
-
   ### Accenture North America Data Analytics and Visualization Job Simulation on Forage - May 2024
 
    * Completed a simulation focused on advising a hypothetical social media client
@@ -34,3 +33,50 @@ Let's connect and embark on a journey to explore the endless possibilities that 
      trends to inform strategic decisions
    * Prepared a PowerPoint deck and video presentation to communicate key insights
      for the client and internal stakeholders
+
+     
+
+
+ ### GE Aerospace Explore Digital Technology virtual experience program on Forage - June 2024
+
+ * Completed a Vue.js UI development simulation for the Frontend Development
+   Team, demonstrating proficiency in Vue SFC Playground.
+ * Applied Vue.js skills by adding features like headings, images, and dynamic
+   variable displays. Implemented a compute button for efficient user
+   interactions.
+ * Drafted clear technical requirements for a feature, suggesting optimal order
+   times for plane parts.
+ * Explored strategies to align technical specifications with business
+   requirements, ensuring effective solutions.
+
+
+
+   
+
+  ### Quantium Data Analytics Job Simulation on Forage - June 2024
+
+ * Completed a job simulation focused on Data Analytics and Commercial Insights
+   for the data science team.
+ * Developed expertise in data preparation and customer analytics, utilizing
+   transaction datasets to extract valuable insights and deliver data-driven
+   commercial recommendations.
+ * Extended analytical capabilities to identify benchmark stores for conducting
+   uplift testing on trial store layouts, enabling evidence-based
+   decision-making.
+ * Leveraged acquired data analytics and insights from previous tasks to create
+   comprehensive reports for the Category Manager, facilitating informed
+   strategic decisions and enhancing commercial applications.
+
+   
+
+
+   
+  ### New York Jobs CEO Council Software Engineering Job Simulation on Forage - June 2024
+
+ * Completed a challenging simulation focused on debugging and developing
+   features for the software engineering team.
+ * Resolved a critical bug in an automated billing system by skillfully
+   identifying the root cause and developing an effective solution.
+ * Improved user experience by developing a code that supports a note-taking
+   feature on each invoice, enhancing communication and transparency between
+   senders and recipients.
