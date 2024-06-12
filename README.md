@@ -6,9 +6,9 @@ Currently enrolled at Nelson Mandela University, I'm pursuing a diploma in Infor
 Let's connect and embark on a journey to explore the endless possibilities that data holds!
 
 
-## Completed Job Simulations
+## Completed Job Simulations for Data Analytics
 
-### PwC Switzerland Power BI Job Simulation on Forage - April 2024
+ ### PwC Switzerland Power BI Job Simulation on Forage - April 2024
 
 
  * Completed a job simulation where I strengthened my PowerBI skills to better
@@ -24,6 +24,7 @@ Let's connect and embark on a journey to explore the endless possibilities that 
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
 
+
  
   ### Accenture North America Data Analytics and Visualization Job Simulation on Forage - May 2024
 
@@ -36,22 +37,6 @@ Let's connect and embark on a journey to explore the endless possibilities that 
 
      
 
-
- ### GE Aerospace Explore Digital Technology virtual experience program on Forage - June 2024
-
- * Completed a Vue.js UI development simulation for the Frontend Development
-   Team, demonstrating proficiency in Vue SFC Playground.
- * Applied Vue.js skills by adding features like headings, images, and dynamic
-   variable displays. Implemented a compute button for efficient user
-   interactions.
- * Drafted clear technical requirements for a feature, suggesting optimal order
-   times for plane parts.
- * Explored strategies to align technical specifications with business
-   requirements, ensuring effective solutions.
-
-
-
-   
 
   ### Quantium Data Analytics Job Simulation on Forage - June 2024
 
@@ -69,6 +54,7 @@ Let's connect and embark on a journey to explore the endless possibilities that 
 
    
 
+## Completed Job Simulations for Software Engineering
 
    
   ### New York Jobs CEO Council Software Engineering Job Simulation on Forage - June 2024
@@ -80,3 +66,15 @@ Let's connect and embark on a journey to explore the endless possibilities that 
  * Improved user experience by developing a code that supports a note-taking
    feature on each invoice, enhancing communication and transparency between
    senders and recipients.
+
+ ### GE Aerospace Explore Digital Technology virtual experience program on Forage - June 2024
+
+ * Completed a Vue.js UI development simulation for the Frontend Development
+   Team, demonstrating proficiency in Vue SFC Playground.
+ * Applied Vue.js skills by adding features like headings, images, and dynamic
+   variable displays. Implemented a compute button for efficient user
+   interactions.
+ * Drafted clear technical requirements for a feature, suggesting optimal order
+   times for plane parts.
+ * Explored strategies to align technical specifications with business
+   requirements, ensuring effective solutions.
