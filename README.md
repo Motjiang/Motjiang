@@ -1,6 +1,6 @@
 ## About me
 
-Hello! I am a final-year Software Development student, passionate about building innovative and efficient solutions. My primary focus is on .NET development, where I have experience working with technologies like ASP.NET Core MVC, C#, Entity Framework, and Dapper. Currently, I am expanding my skill set by learning AngularJS and TypeScript, which allows me to create dynamic, responsive web applications.
+Hello! I am a final-year Software Development student, passionate about building innovative and efficient solutions. My primary focus is on .NET development, where I have experience working with technologies like ASP.NET Core MVC, C#, Entity Framework, and Dapper. Currently, I am expanding my skill set by learning AngularJS, ReactJS and TypeScript, which allows me to create dynamic, responsive web applications.
 
 I enjoy working on full-stack projects and constantly seek opportunities to improve my knowledge and develop new skills. My goal is to contribute to impactful software solutions that solve real-world challenges.
 
