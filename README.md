@@ -1,8 +1,6 @@
 # 👋 About Me
 
-I'm a third-year student at **Nelson Mandela University**, pursuing a **Diploma in Information Technology**, majoring in **Software Development and Information Systems**.  
-I have a passion for bridging the gap between manual, electronic, and digital processes by crafting seamless systems and websites through coding and development.  
-I'm driven by **continuous learning**, **strong communication**, and the belief that **seeking help is a vital part of growth**.
+Software Development student at Nelson Mandela University, with hands-on experience in full-stack development using C#, .NET Core, Angular, and cloud platforms like AWS and Azure. Passionate about building practical, scalable solutions and writing clean, maintainable code. Eager to contribute to real-world projects and grow within a collaborative development team.
 
 
 ## 🌐 Socials:
