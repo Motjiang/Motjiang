@@ -1,6 +1,8 @@
 # 👋 About Me
 
-Software Development student at Nelson Mandela University, with hands-on experience in full-stack development using C#, .NET Core, Angular, and cloud platforms like AWS and Azure. Passionate about building practical, scalable solutions and writing clean, maintainable code. Eager to contribute to real-world projects and grow within a collaborative development team.
+Your friendly neighborhood full-stack developer — specializing in .NET ecosystem, Angular2+ and Reactjs. I turn ideas into full-fledged web apps, crafting clean backends and immersive frontends one line of code at a time.
+DevOps is my current playground: I’m learning Azure DevOps, Docker, and Kubernetes to better bridge the gap between development and deployment.
+When I’m not coding, I’m vibing to Afrobeat and Deep-House music, reading tech articles, or leveling up my skills.
 
 
 ## 🌐 Socials:
