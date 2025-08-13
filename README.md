@@ -7,8 +7,11 @@ _Software Development & Information Systems Student_
 
 ---
 
-💫 Your friendly neighborhood full-stack developer — specializing in .NET ecosystem, Angular2+ and Reactjs. I turn ideas into full-fledged web apps, crafting clean backends and immersive frontends one line of code at a time.
-DevOps is my current playground: I’m learning Azure DevOps, Docker, and Kubernetes to better bridge the gap between development and deployment.
+I'm a passionate **Full-Stack Developer** currently honing my skills at **Nelson Mandela University (NMU)** in sunny **South Africa**. My journey is all about transforming innovative ideas into robust, real-world web applications.
+
+I specialize in the **.NET ecosystem** for building scalable and efficient backends. On the frontend, I craft engaging and immersive user experiences using **Angular (2+)** and **ReactJS**. My goal is to build solutions that are not just functional, but also a joy to use.
+
+Currently, my focus is heavily invested in **DevOps**. I'm actively learning and implementing practices around **Azure DevOps**, **Docker**, and **Kubernetes**. My aim is to seamlessly bridge the gap between development and deployment, making the entire software delivery pipeline smoother and more reliable.
 
 
 ---
