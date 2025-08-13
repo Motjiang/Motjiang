@@ -28,7 +28,7 @@ Currently, my focus is heavily invested in **DevOps**. I'm actively learning and
 | **Real-Time & Messaging**| SignalR, RabbitMQ                                                             |
 | **Testing**              | xUnit, Jasmine, Karma                                                        |
 | **Architecture**         | Clean Architecture, Onion Architecture, Vertical Slice Architecture, DDD, CQRS, Repository Pattern, MediatR, Monolith & Microservices |
-| **DevOps & Deployment**  | Git, GitHub, GitHub Actions, Azure DevOps, Jenkins, Docker, Kubernetes, AWS  |
+| **DevOps & Deployment**  | Git, GitHub Actions, Azure DevOps, Jenkins, Docker, Kubernetes, AWS  |
 | **Methodologies**        | Agile (Scrum, Sprint Planning), TDD, Waterfall                               |
 
 ## 🎶 A Little More About Me
