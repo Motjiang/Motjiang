@@ -7,11 +7,7 @@ _Software Development & Information Systems Student_
 
 ---
 
-I'm a passionate **Full-Stack Developer** currently honing my skills at **Nelson Mandela University (NMU)** in **South Africa**. My journey is all about transforming innovative ideas into robust, real-world web applications.
-
-I specialize in the **.NET ecosystem** for building scalable and efficient backends. On the frontend, I craft engaging and immersive user experiences using **Angular (2+)** and **ReactJS**. My goal is to build solutions that are not just functional, but also a joy to use.
-
-Currently, my focus is heavily invested in **DevOps**. I'm actively learning and implementing practices around **Azure DevOps**, **Docker**, and **Kubernetes**. My aim is to seamlessly bridge the gap between development and deployment, making the entire software delivery pipeline smoother and more reliable.
+Final-year Information Technology student specializing in software development and information systems. Experienced in building web applications using Angular and ASP.NET Core, with a strong foundation in the MVC architectural pattern. I’ve combined classroom learning with self-taught full-stack development and hands-on project experience. Passionate about clean code, continuous learning, and contributing to collaborative development teams.
 
 
 ---
