@@ -2,7 +2,7 @@
 <img width="2240" height="1260" alt="gitHub banner" src="https://github.com/user-attachments/assets/d4d8f2bd-8557-45aa-b5ac-1fe640803b51" />
 
 # 👋 I'M BRILLIANT NHLAMOLO MOTJIANG  
-**Angular / .Net Full-Stack Developer**  
+**Angular / .Net Full-Stack Engineer**  
 _Software Development & Information Systems Student_
 
 ---
