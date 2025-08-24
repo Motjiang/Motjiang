@@ -4,7 +4,7 @@
 
 # 👋 I'M BRILLIANT NHLAMOLO MOTJIANG  
 
-**Angular + .Net Full-Stack Engineer**  
+**Angular + .Net Software Developer**  
 _Software Development & Information Systems Student_
 
 ---
