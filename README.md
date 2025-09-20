@@ -19,8 +19,8 @@ Final-year Information Technology student specializing in software development a
 | Category                 | Technologies                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **Languages**            | C#, TypeScript, JavaScript, Python, Go (Golang)                                           |
-| **Backend & Frameworks**| .NET Framework, .NET Core, ASP.NET MVC, RESTful APIs, Entity Framework, Dapper |
-| **Databases**            | MS SQL Server, SQLite3, RDBMS, Database Design                               |
+| **Backend & Frameworks**| .NET Framework, .NET Core, ASP.NET MVC, RESTful APIs, Entity Framework, Dapper , Node.js, Express|
+| **Databases**            | MS SQL Server, MySQL, SQLite3, RDBMS, Database Design                               |
 | **Frontend**             | Angular 2+, ReactJS, HTML5, CSS, SCSS, Bootstrap 5, Tailwind CSS             |
 | **Mobile**               | Ionic Framework                                                              |
 | **Real-Time & Messaging**| SignalR, RabbitMQ                                                             |
