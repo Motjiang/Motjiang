@@ -25,7 +25,7 @@ Final-year Information Technology student specializing in software development a
 | **Mobile**               | Ionic Framework                                                              |
 | **Real-Time & Messaging**| SignalR, RabbitMQ                                                             |
 | **Testing**              | xUnit, Jasmine, Karma                                                        |
-| **Architecture**         | Clean Architecture, Onion Architecture, Vertical Slice Architecture, DDD, CQRS, Repository Pattern, MediatR, Monolith & Microservices |
+| **Architecture**         | Clean Architecture, Onion Architecture, Vertical Slice Architecture, DDD, CQRS, UnitOfWork, Repository Pattern, MediatR, Monolith & Microservices |
 | **DevOps & Deployment**  | Git, GitHub Actions, Azure DevOps, Jenkins, Docker, Kubernetes, AWS  |
 | **Methodologies**        | Agile (Scrum, Sprint Planning), TDD, Waterfall                               |
 
