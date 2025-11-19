@@ -4,7 +4,7 @@
 
 # 👋 I'M BRILLIANT NHLAMOLO MOTJIANG  
 
-**Angular + .Net Software Developer**  
+**Software Engineer | .Net & Angular Solutions | Azure Cloud Solutions**  
 _Software Development & Information Systems Student_
 
 ---
